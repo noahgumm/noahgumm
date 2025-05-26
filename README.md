@@ -1,8 +1,5 @@
 ### Hi there 👋
 ### - Currently in college as a CS Major
-### - Fell in love with programming while making my first website in 2016
-### - Main languages: C#, C++, Javascript, Python
-### - Familiar with: Java, SQL, Typescript
 <!--
 **noahgumm/noahgumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
